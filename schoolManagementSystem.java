@@ -1,6 +1,6 @@
 package Basic;
 
-import ava.awt.*;
+import java.awt.*;
 import java.io.*;
 import java.util.*;
 import javax.swing.*;
