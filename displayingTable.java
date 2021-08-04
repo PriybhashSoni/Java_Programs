@@ -8,7 +8,7 @@ public class displayingTable {
         System.out.println("Enter the number which you want to display : ");
         int n=sc.nextInt();
         int x=0;
-         fr(int i=1;i<=10;i++)
+         lfr(int i=1;i<=10;i++)
          {
               x=n*i;
               System.out.println(n+" x "+i+ " is "+x);
