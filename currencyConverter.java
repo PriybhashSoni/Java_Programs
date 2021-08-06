@@ -10,7 +10,7 @@ public class currencyConverter {
  
 		DecimalFormat f = new DecimalFormat("##.##");
  
-		Scanner sc = new Scanner(System.in);
+		Scanner s= new Scanner(System.in);
  
 		System.out.println("hi, Welcome to the Currency Converter!");
  
