@@ -5,7 +5,7 @@ public class continueKeyword {
         int n[]={10,20,30,40,50,60};
         for(int x:n)
         {
-            if(x==40)
+            if(x=40)
             {
                 continue;
             }
