@@ -4,7 +4,7 @@ import javax.swing.AbstractAction;
 
 public abstract class abstractClassex1 {
     public String fname="John";
-    public int age=23;
+    public int age=63;
     public abstract void study();
 }
     class student extends abstractClassex1
