@@ -1,6 +1,6 @@
 public class IfElse {
     public static void main(String[] args) {
-        int x=30;
+        int x=90;
         if(x==10){
             System.out.println("value of x is 10");
         }
