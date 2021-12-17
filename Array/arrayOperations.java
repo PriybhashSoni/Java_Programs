@@ -12,7 +12,7 @@ public class arrayOperations {
             total+=mylist[i];
         }
         System.out.println("total is : "+total);
-        //max number:-
+       
         double max=mylist[0];
         for(int i=1;i<mylist.length;i++)
         {
