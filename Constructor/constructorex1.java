@@ -2,7 +2,6 @@ class student {
     int id;
     String name;
     int age;
-
     student(int i, String n)
     {
         id = i;
